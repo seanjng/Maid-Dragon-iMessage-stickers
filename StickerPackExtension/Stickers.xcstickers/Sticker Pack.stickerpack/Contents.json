@@ -1,4 +1,54 @@
 {
+  "stickers" : [
+    {
+      "filename" : "01 Hello!!.sticker"
+    },
+    {
+      "filename" : "02 Sorry!.sticker"
+    },
+    {
+      "filename" : "03 Beh (:P).sticker"
+    },
+    {
+      "filename" : "04 Maji!? (Really!?).sticker"
+    },
+    {
+      "filename" : "05 Thanks!.sticker"
+    },
+    {
+      "filename" : "06 Sorena (That's right).sticker"
+    },
+    {
+      "filename" : "07 (surprise).sticker"
+    },
+    {
+      "filename" : "08 Omedeto! (Congratulations).sticker"
+    },
+    {
+      "filename" : "09 De? (So?).sticker"
+    },
+    {
+      "filename" : "10 Ok.sticker"
+    },
+    {
+      "filename" : "11 All right?.sticker"
+    },
+    {
+      "filename" : "12 Maji. (Yes, really).sticker"
+    },
+    {
+      "filename" : "13 Urayama (I'm jealous).sticker"
+    },
+    {
+      "filename" : "14 (angry).sticker"
+    },
+    {
+      "filename" : "15 Atari! (Jackpot!).sticker"
+    },
+    {
+      "filename" : "16 Ru (TT^TT).sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

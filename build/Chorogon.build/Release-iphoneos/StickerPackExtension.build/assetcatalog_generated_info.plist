@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>iMessage App Icon60x45</string>
+				<string>iMessage App Icon67x50</string>
+				<string>iMessage App Icon74x55</string>
+				<string>iMessage App Icon27x20</string>
+				<string>iMessage App Icon32x24</string>
+			</array>
+		</dict>
+	</dict>
+	<key>IMStickerPackPath</key>
+	<string>Sticker Pack.stickerpack</string>
+	<key>MSMessagesExtensionStoreIconName</key>
+	<string>iMessage App Icon</string>
+</dict>
+</plist>

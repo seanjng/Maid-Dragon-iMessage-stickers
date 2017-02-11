@@ -1,6 +1,6 @@
 # Maid Dragon iMessage stickers
 
-![](http://imgur.com/lD3WOLX.jpg)
+![](http://imgur.com/FlaFYux.jpg)
 
 These were originally cleaned by /u/KiwiSkis and posted on /r/anime [here](https://www.reddit.com/r/anime/comments/5tcw33/i_cleaned_and_edited_all_the_chat_stickers_from/).
 
@@ -19,5 +19,4 @@ These were originally cleaned by /u/KiwiSkis and posted on /r/anime [here](https
 8. ???
 9. Profit!
 
-
-![](http://imgur.com/6zdyVos.jpg)
+![](http://imgur.com/2hp6XWb.jpg)

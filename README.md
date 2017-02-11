@@ -1,5 +1,7 @@
 # Maid Dragon iMessage stickers
 
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
 ![](http://imgur.com/FlaFYux.jpg)
 
 These were originally cleaned by /u/KiwiSkis and posted on /r/anime [here](https://www.reddit.com/r/anime/comments/5tcw33/i_cleaned_and_edited_all_the_chat_stickers_from/).
